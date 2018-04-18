@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="ridon/android_device_samsung_hero2lte" path="device/samsung/hero2lte" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_device_samsung_hero-common" path="device/samsung/hero-common" remote="github" revision="ridon-7.1.2" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="cm-14.1" />
+  <project name="ridon/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="gitlab" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos8890" path="hardware/samsung_slsi-cm/exynos8890" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_kernel_samsung_universal8890" path="kernel/samsung/universal8890" remote="github" revision="cm-14.1" />
+  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1" />
+  <project name="ridon/android_device_lge_bullhead" path="device/lge/bullhead" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_kernel_lge_bullhead" path="kernel/lge/bullhead" remote="github" revision="ridon-7.1.2" />
+  <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="cm-14.1" />
+  <project name="ridon/android_device_oneplus_onyx" path="device/oneplus/onyx" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_device_oppo_common" path="device/oppo/common" remote="github" revision="ridon-7.1.2" />
+  <project name="LineageOS/android_kernel_oneplus_onyx" path="kernel/oneplus/onyx" remote="github" />
+  <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-14.1" />
+  <project name="ridon/android_device_asus_Z00D" path="device/asus/Z00D" remote="github" revision="ridon-7.1.2" />
+  <project name="LineageOS/android_kernel_asus_Z00D" path="kernel/asus/Z00D" remote="github" />
+  <project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="cm-14.1" />
+  <project name="ridon/android_device_oneplus_bacon" path="device/oneplus/bacon" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_kernel_oneplus_msm8974" path="kernel/oneplus/msm8974" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/proprietary_vendor_xiaomi_mido" path="vendor/xiaomi/mido" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_device_xiaomi_mido" path="device/xiaomi/mido" remote="github" revision="ridon-7.1.2" />
+  <project name="LineageOS/android_kernel_xiaomi_msm8953" path="kernel/xiaomi/msm8953" remote="github" />
+  <project name="ridon/android_device_xiaomi_ido" path="device/xiaomi/ido" remote="github" revision="ridon-7.1.2" />
+  <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" />
+  <project name="LineageOS/android_kernel_xiaomi_msm8916" path="kernel/xiaomi/msm8916" remote="github" />
+  <project name="ridon/android_device_oneplus_oneplus3" path="device/oneplus/oneplus3" remote="github" revision="ridon-7.1.2" />
+  <project name="LineageOS/android_kernel_oneplus_msm8996" path="kernel/oneplus/msm8996" remote="github" />
+  <project name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" remote="github" />
+  <project name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" remote="github" />
+  <project name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" remote="github" />
+  <project name="ridon/android_device_samsung_ha3g" path="device/samsung/ha3g" remote="github" revision="ridon-7.1.2" />
+  <project name="LineageOS/android_device_samsung_exynos5420-common" path="device/samsung/exynos5420-common" remote="github" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5420" path="hardware/samsung_slsi-cm/exynos5420" remote="github" />
+  <project name="LineageOS/android_kernel_samsung_exynos5420" path="kernel/samsung/exynos5420" remote="github" />
+  <project name="OpenKirin/android_device_huawei_vns" path="device/huawei/vns" revision="7.x" />
+  <project name="OpenKirin/android_kernel_huawei_vns" path="kernel/huawei/vns" revision="7.x" />
+  <project name="OpenKirin/android_vendor_huawei_vns" path="vendor/huawei/vns" revision="7.x" />
+  <project name="ridon/android_device_xiaomi_kenzo" path="device/xiaomi/kenzo" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_device_xiaomi_msm8956-common" path="device/xiaomi/msm8956-common" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_kernel_xiaomi_msm8956" path="kernel/xiaomi/msm8956" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_device_motorola_falcon" path="device/motorola/falcon" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="ridon-7.1.2" />
+  <project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-14.1" />
+  <project name="AOSP-JF-MM/proprietary_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="github" revision="aosp-7.1.1" />
+  <project name="ridon/android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_device_xiaomi_santoni" path="device/xiaomi/santoni" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_kernel_xiaomi_msm8937" path="kernel/xiaomi/msm8937" remote="github" revision="ridon-7.1.2" />
+  <project name="MacTavishOT/android_vendor_xiaomi_santoni" path="vendor/xiaomi/santoni" remote="github" revision="cm-14.1" />
+  <project name="ridon/android_device_samsung_gts210ltexx" path="device/samsung/gts210ltexx" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_device_samsung_gts2-common" path="device/samsung/gts2-common" remote="github" revision="ridon-7.1.2" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5433" path="hardware/samsung_slsi-cm/exynos5433" remote="github" />
+  <project name="ridon/android_kernel_samsung_gts2" path="kernel/samsung/gts2" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_device_wingtech_wt88047" path="device/wingtech/wt88047" remote="github" revision="ridon-7.1.2" />
+  <project name="LineageOS/android_kernel_wingtech_msm8916" path="kernel/wingtech/msm8916" remote="github" />
+  <project name="TheMuppets/proprietary_vendor_wingtech" path="vendor/wingtech" remote="github" revision="cm-14.1" />
+  <project name="SamarV-121/proprietary_vendor_google" path="vendor/google" remote="github" revision="cm-14.1" />
+  <project name="ridon/android_device_google_sprout4" path="device/google/sprout4" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_device_google_sprout-common" path="device/google/sprout-common" remote="github" revision="ridon-7.1.2" />
+  <project name="SamarV-121/android_kernel_mediatek_sprout" path="kernel/mediatek/sprout" remote="github" revision="android-3.10" />
+  <project name="ridon/android_device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_device_xiaomi_ferrari" path="device/xiaomi/ferrari" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_kernel_xiaomi_ferrari--deprecated" path="kernel/xiaomi/ferrari" remote="github" revision="ridon-7.1.2" />
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
+  <project name="ridon/android_device_qcom_common" path="device/qcom/common" remote="github" />
+  <project name="LineageOS/android_device_cyanogen_msm8916-common" path="device/cyanogen/msm8916-common" remote="github" />
+  <project name="ridon/proprietary_vendor_xiaomi_ferrari" path="vendor/xiaomi/ferrari" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_device_huawei_kiwi" path="device/huawei/kiwi" remote="github" revision="ridon-7.1.2" />
+  <project name="ridon/android_kernel_huawei_kiwi" path="kernel/huawei/kiwi" remote="github" revision="ridon-7.1.2" />
+  <project name="Huawei-Kiwi/android_kernel_huawei_msm8939" path="kernel/huawei/msm8939" remote="github" revision="Huawei" />
+  <project name="TheMuppets/proprietary_vendor_huawei" path="vendor/huawei" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" />
+  <project name="ridon/android_device_xiaomi_armani" path="device/xiaomi/armani" remote="gitlab" />
+  <project name="ridon/android_kernel_xiaomi_armani" path="kernel/xiaomi/armani" remote="gitlab" />
+  <project name="ridon/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="gitlab" revision="cm-14.1" />
+  <project name="ridon/android_device_xiaomi_cancro" path="device/xiaomi/cancro" remote="gitlab" />
+  <project name="ridon/android_kernel_xiaomi_cancro" path="kernel/xiaomi/cancro" remote="gitlab" />
+</manifest>
